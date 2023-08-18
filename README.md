@@ -9,7 +9,7 @@ This repository contains a comprehensive analysis of Product Management job list
 * Web Scraping:
 Extracts job listings related to Product Management from WUZZUF in real-time.
 * Data Parsing: Utilizes BeautifulSoup to parse the HTML content and extract essential job details such as:
-Job Title, Job Link, Company Name, Job Location, Job Type (e.g., Full-Time, Part-Time), Required Skills, Skills Count, Experience level, Experience Type (e.g., Experienced, Manager, Internship, and more.
+Job Title, Job Link, Company Name, Job Location, Job Type (e.g., Full-Time, Part-Time), Required Skills, Skills Count, Experience level, Experience Type (e.g., Experienced, Manager, Internship).
 * Data Analysis:
 Processes and analyzes the data using Pandas, providing insights into average years of experience required, average number of skills required, and other statistics.
 * Visualization:
