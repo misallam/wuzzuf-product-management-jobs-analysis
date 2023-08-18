@@ -25,11 +25,7 @@ Uses libraries like Matplotlib and Seaborn to provide visual insights into the d
 
 * Clone this repository:
 ``` bash
-$ git clone <repository-link>
-```
-* Navigate to the project directory:
-``` bash
-$ cd <repository-directory>
+$ git clone https://github.com/misallam/Wuzzuf-Product-Management-Jobs-Analysis.git
 ```
 * Install the necessary libraries:
 ``` bash
