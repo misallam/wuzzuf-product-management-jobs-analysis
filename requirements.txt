@@ -1,0 +1,9 @@
+requests
+numpy
+google.colab
+matplotlib
+seaborn
+bs4
+BeautifulSoup
+pandas
+csv
